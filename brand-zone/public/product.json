@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Coca-Cola Classic",
+        "image": "https://i.ibb.co/gZkD50M/coca-cola-classic.png",
+        "brandName": "Coca-Cola",
+        "type": "Beverage",
+        "price": 1.99,
+        "description": "Coca-Cola Classic is the iconic, carbonated cola loved by millions across the globe. With its signature sweet and fizzy taste, it's a timeless refreshment that brings people together. Whether enjoyed on a hot summer day or shared at celebrations, Coca-Cola Classic delivers a moment of happiness in every sip. Experience the magic of Coca-Cola Classic, where the simple pleasure of enjoying a cold soda becomes a cherished memory.",
+        "rating": 4.5,
+        "productId": 1
+    },
+    {
+        "name": "Diet Coke",
+        "image": "https://i.ibb.co/CmC3yVk/diet-coke.jpg",
+        "brandName": "Coca-Cola",
+        "type": "Beverage",
+        "price": 1.79,
+        "description": "Diet Coke, the classic cola taste with no calories. It’s your everyday hero, your deliciously fizzy go-to companion. Enjoy the crisp, light taste of Diet Coke anytime, anywhere. Whether you're at work, relaxing at home, or out on the town, Diet Coke is the perfect refreshing beverage choice. Embrace the satisfying bubbles and delightful flavor without the guilt. Dive into the effervescent world of Diet Coke and experience a true cola masterpiece, crafted for those who love the taste of freedom.",
+        "rating": 4.2,
+        "productId": 2
+    },
+    {
+        "name": "Coca-Cola Zero Sugar",
+        "image": "https://i.ibb.co/CmsVJds/zero-sugar.jpg",
+        "brandName": "Coca-Cola",
+        "type": "Beverage",
+        "price": 2.09,
+        "description": "Coca-Cola Zero Sugar gives you all the classic Coca-Cola flavor you love, with zero sugar and zero calories. It’s the perfect choice for those who want to enjoy the great taste of Coke without the sugar intake. Immerse yourself in the same fizzy, refreshing experience you expect from Coca-Cola, just without the added sweetness. Whether you're pursuing a healthier lifestyle or simply love the taste of Coca-Cola, Coca-Cola Zero Sugar is your passport to guilt-free refreshment. Revel in the joy of a satisfying cola, reinvented for the modern, health-conscious consumer.",
+        "rating": 4.3,
+        "productId": 3
+    },
+    {
+        "name": "Sprite",
+        "image": "https://i.ibb.co/0F96z30/sprite.jpg",
+        "brandName": "Coca-Cola",
+        "type": "Beverage",
+        "price": 1.89,
+        "description": "Sprite, the sparkling lemon-lime soda, is a burst of thirst-quenching joy in every sip. With its tangy, citrusy flavor and refreshing bubbles, Sprite is the ultimate revitalizing drink for any occasion. Crisp, clean, and caffeine-free, Sprite is a zesty delight that cools you down and lifts your spirits. Whether paired with a meal, enjoyed at a party, or sipped poolside, Sprite is the perfect choice for those who crave a lively, effervescent experience. Embrace the effervescence, embrace the lemon-lime perfection of Sprite.",
+        "rating": 4.4,
+        "productId": 4
+    },
+    {
+        "name": "Big Mac",
+        "image": "https://i.ibb.co/SQBVyF2/bigmac.jpg",
+        "brandName": "McDonald",
+        "type": "Burger",
+        "price": 3.99,
+        "description": "Indulge in the legendary taste of the Big Mac, McDonald's iconic double-decker burger. Featuring two savory beef patties, special sauce, lettuce, cheese, pickles, and onions, all sandwiched between a three-part sesame seed bun, the Big Mac is a burger lover's dream. Each bite is a perfect harmony of flavors and textures, delivering a mouthwatering experience that has made it a global favorite. Treat yourself to the one-of-a-kind taste that only the Big Mac can provide. It's not just a burger; it's an institution of deliciousness.",
+        "rating": 4.7,
+        "productId": 1
+    },
+    {
+        "name": "McNuggets",
+        "image": "https://i.ibb.co/jG3vgW3/nuggets.jpg",
+        "brandName": "McDonald",
+        "type": "Snack",
+        "price": 2.49,
+        "description": "McNuggets, the crispy golden treasures that make snack time truly delightful. Made from tender, 100% white meat chicken, these bite-sized wonders are coated in a perfectly seasoned, crispy breading. Whether dipped in tangy barbecue sauce, creamy ranch, or spicy mustard, McNuggets are the ultimate snack indulgence. Each bite is a symphony of flavors and textures, satisfying your cravings with every mouthful. Share the joy with friends or savor them solo – McNuggets are the snack-time champions that never disappoint.",
+        "rating": 4.6,
+        "productId": 2
+    },
+    {
+        "name": "McFlurry",
+        "image": "https://i.ibb.co/pW760dz/flury.jpg",
+        "brandName": "McDonald",
+        "type": "Dessert",
+        "price": 1.79,
+        "description": "McFlurry, the heavenly dessert that blends velvety soft-serve ice cream with a tantalizing medley of toppings. Whether you're a fan of classic Oreo cookies, indulgent caramel, or rich chocolate, there's a McFlurry flavor to satisfy every sweet tooth. Each spoonful is an adventure in taste, as the creamy ice cream marries the crunch and sweetness of the toppings. It's a dessert masterpiece that provides the perfect balance of flavors and textures. Treat yourself to a McFlurry and experience dessert perfection, one spoonful at a time.",
+        "rating": 4.4,
+        "productId": 3
+    },
+    {
+        "name": "McCafe Coffee",
+        "image": "https://i.ibb.co/pW760dz/flury.jpg",
+        "brandName": "McDonald",
+        "type": "Beverage",
+        "price": 1.49,
+        "description": "McCafe Coffee, where premium Arabica beans meet expert craftsmanship. Savor the rich, full-bodied flavor and irresistible aroma of freshly brewed McCafe Coffee. Whether you prefer a velvety latte, robust Americano, or a classic cappuccino, our baristas are dedicated to perfecting your coffee experience. Made with love and passion, every cup is a testament to the artistry of coffee-making. Elevate your day with the perfect cup of McCafe Coffee – a comforting, energizing companion that transforms your ordinary moments into extraordinary ones.",
+        "rating": 4.5,
+        "productId": 4
+    },
+    {
+        "name": "Caramel Macchiato",
+        "image": "https://i.ibb.co/p3xZ4kx/Caramel-Macchiato.jpg",
+        "brandName": "Starbucks",
+        "type": "Coffee",
+        "price": 4.29,
+        "description": "Caramel Macchiato, the artful fusion of rich espresso, steamed milk, and velvety caramel drizzle. Experience the harmonious balance of bold coffee notes, smooth milk, and sweet caramel in every sip. Whether hot, iced, or blended, Caramel Macchiato is a coffee lover's delight, tantalizing the taste buds with its complex flavors. The initial rush of espresso is softened by the creamy milk and elevated by the luxurious caramel, creating a beverage that is both comforting and indulgent. Immerse yourself in the irresistible allure of Caramel Macchiato and let its exquisite taste transport you to coffee paradise.",
+        "rating": 4.6,
+        "productId": 1
+    },
+    {
+        "name": "Iced White Chocolate Mocha",
+        "image": "https://i.ibb.co/qC8kyqf/Iced-White-Chocolate-Mocha.jpg",
+        "brandName": "Starbucks",
+        "type": "Iced Coffee",
+        "price": 4.79,
+        "description": "Iced White Chocolate Mocha, the sublime marriage of smooth white chocolate, rich espresso, and cold, creamy milk. This iced delight is a symphony of flavors, combining the intensity of espresso with the luscious sweetness of white chocolate. As the ice mingles with the velvety liquid, a refreshing and indulgent masterpiece is born. Each sip is a revelation, a delightful dance of contrasts that is both invigorating and satisfying. Discover the magic of Iced White Chocolate Mocha and experience the joy of a well-crafted coffee beverage that delivers a blissful moment with every sip.",
+        "rating": 4.7,
+        "productId": 2
+    },
+    {
+        "name": "Pumpkin Spice Latte",
+        "image": "https://i.ibb.co/tMdrCqW/pumpkin.jpg",
+        "brandName": "Starbucks",
+        "type": "Seasonal Coffee",
+        "price": 4.99,
+        "description": "Pumpkin Spice Latte, the beloved autumn classic that heralds the arrival of fall with every sip. Indulge in the warmth of espresso, steamed milk, and a fragrant blend of pumpkin and spices. The aromatic allure of cinnamon, nutmeg, and cloves dances on your taste buds, creating a cozy and comforting experience. Topped with a dollop of whipped cream and a sprinkle of pumpkin spice, this seasonal masterpiece is the epitome of fall in a cup. Embrace the spirit of autumn and treat yourself to the irresistible charm of Pumpkin Spice Latte – a beverage that captures the essence of the season.",
+        "rating": 4.5,
+        "productId": 3
+    },
+    {
+        "name": "Matcha Green Tea Latte",
+        "image": "https://i.ibb.co/r7Wkk0w/Matcha-Greentea-Latte.png",
+        "brandName": "Starbucks",
+        "type": "Tea",
+        "price": 3.99,
+        "description": "Matcha Green Tea Latte, where the ancient tradition of Japanese matcha meets the modern indulgence of a velvety latte. Experience the vibrant green tea flavor, rich in antioxidants and natural goodness, harmoniously blended with steamed milk. The result is a smooth, frothy beverage that delights the senses with its vibrant color and earthy undertones. Each sip of Matcha Green Tea Latte is a journey to the heart of Japan, where centuries-old tea-making techniques meet the innovation of Starbucks. Immerse yourself in the serenity of matcha and let its calming influence elevate your day.",
+        "rating": 4.4,
+        "productId": 4
+    },
+    {
+        "name": "Pepsi",
+        "image": "https://i.ibb.co/kSRv3T8/pepsi.png",
+        "brandName": "PepsiCo",
+        "type": "Beverage",
+        "price": 1.89,
+        "description": "Pepsi, the ultimate cola experience that captivates your senses with its bold and refreshing taste. Crafted with perfection, Pepsi delivers the right balance of effervescence and sweetness, making every sip a moment of pure enjoyment. Whether you're quenching your thirst after a long day or sharing it with friends at gatherings, Pepsi is the go-to beverage for all occasions. With its iconic flavor and crisp bubbles, Pepsi ignites a spark of joy, leaving you refreshed and revitalized. Embrace the spirit of Pepsi and embark on a delightful journey of taste that never fails to satisfy.",
+        "rating": 4.4,
+        "productId": 1
+    },
+    {
+        "name": "Doritos",
+        "image": "https://i.ibb.co/LrCp2qb/doritos.jpg",
+        "brandName": "PepsiCo",
+        "type": "Snack",
+        "price": 2.49,
+        "description": "Doritos, the legendary tortilla chips that redefine snack time with their bold flavors and satisfying crunch. Every Doritos chip is a masterpiece, dusted with an irresistible blend of spices and seasonings that awaken your taste buds. Whether you're a fan of classic nacho cheese, spicy chili heatwave, or cool ranch, Doritos offers a flavor for every palate. Each bite is a symphony of textures – from the initial crispness to the hearty crunch – creating a snacking experience that is unparalleled. Dive into the world of Doritos and let the adventure begin with every munch.",
+        "rating": 4.5,
+        "productId": 2
+    },
+    {
+        "name": "Tropicana Orange Juice",
+        "image": "https://i.ibb.co/yQ0sFwq/Orange-Juice.png",
+        "brandName": "PepsiCo",
+        "type": "Beverage",
+        "price": 3.29,
+        "description": "Tropicana Orange Juice, the epitome of freshness and natural goodness in a bottle. Made from succulent, sun-ripened oranges, this juice is a burst of citrusy perfection. Each sip is a revitalizing experience, capturing the essence of ripe oranges in their purest form. With no added sugars or preservatives, Tropicana Orange Juice offers the authentic taste of freshly squeezed oranges, straight from the grove to your glass. Whether enjoyed at breakfast, brunch, or any time of the day, Tropicana Orange Juice is a delightful companion that rejuvenates your senses and brightens your moments.",
+        "rating": 4.6,
+        "productId": 3
+    },
+    {
+        "name": "Gatorade",
+        "image": "https://i.ibb.co/chjVgdR/gatorade.jpg",
+        "brandName": "PepsiCo",
+        "type": "Sports Drink",
+        "price": 2.99,
+        "description": "Gatorade, the ultimate sports drink that fuels your body and hydrates your spirit. Packed with electrolytes and designed for active individuals, Gatorade is the go-to beverage for athletes and fitness enthusiasts. Whether you're hitting the gym, running a marathon, or engaging in intense physical activity, Gatorade replenishes lost fluids and vital minerals. Its refreshing flavors and revitalizing properties boost your endurance and keep you performing at your best. Embrace the power of Gatorade and stay at the top of your game – because every drop of Gatorade is a step toward victory.",
+        "rating": 4.3,
+        "productId": 4
+    },
+    {
+        "name": "KitKat",
+        "image": "https://i.ibb.co/jzvsXTn/kitkat.jpg",
+        "brandName": "Nestlé",
+        "type": "Chocolate",
+        "price": 1.29,
+        "description": "KitKat, the classic chocolate bar that has delighted chocolate lovers for generations. Indulge in the irresistible combination of crispy wafer layers coated in smooth milk chocolate. Whether you break it into pieces, savor it whole, or dip it in your favorite hot beverage, KitKat offers a satisfying crunch and heavenly taste. Each bite is a journey of textures – from the initial snap of the wafer to the melt-in-your-mouth chocolate goodness. KitKat is more than a chocolate bar; it's a delightful ritual, a moment of bliss that elevates your day.",
+        "rating": 4.6,
+        "productId": 1
+    },
+    {
+        "name": "Nescafé Instant Coffee",
+        "image": "https://i.ibb.co/WW6LjZB/nestea.jpg",
+        "brandName": "Nestlé",
+        "type": "Coffee",
+        "price": 4.99,
+        "description": "Nescafé Instant Coffee, the quick and convenient way to enjoy a rich, aromatic cup of coffee. Made from high-quality coffee beans, Nescafé Instant Coffee offers the perfect balance of flavor and convenience. Whether you're at home, in the office, or on the go, a steaming cup of Nescafé coffee is just moments away. Simply add hot water, stir, and savor the delightful aroma and robust taste. It's the ideal choice for busy mornings, afternoon pick-me-ups, or cozy evenings. Embrace the simplicity of Nescafé Instant Coffee and experience the pleasure of a freshly brewed cup, anytime, anywhere.",
+        "rating": 4.7,
+        "productId": 2
+    },
+    {
+        "name": "Maggi Noodles",
+        "image": "https://i.ibb.co/qMydF2P/nestle-maggi-2-minute-masala-instant-noodles-12-pack.jpg",
+        "brandName": "Nestlé",
+        "type": "Noodles",
+        "price": 0.99,
+        "description": "Maggi Noodles, the quick and delicious solution to your hunger cravings. Made from fine-quality durum wheat and infused with delectable spices, Maggi Noodles offer a flavorful and satisfying meal experience. Whether you prefer the classic masala flavor, spicy curry, or cheesy delight, Maggi Noodles has a variant to suit every palate. In just a few minutes, you can enjoy a piping hot bowl of noodles that's perfect for any time of the day. Embrace the convenience and scrumptiousness of Maggi Noodles – because a tasty meal is always within reach.",
+        "rating": 4.3,
+        "productId": 3
+    },
+    {
+        "name": "Nestea Iced Tea",
+        "image": "https://i.ibb.co/ftCrhRw/nestle-nescafe-classic-instant-coffee.jpg",
+        "brandName": "Nestlé",
+        "type": "Iced Tea",
+        "price": 1.49,
+        "description": "Nestea Iced Tea, the ultimate thirst quencher that combines the natural goodness of tea with a hint of sweetness. Made from carefully selected tea leaves and sweetened just right, Nestea Iced Tea offers a refreshing and revitalizing experience. Whether you're relaxing at home, enjoying a picnic, or hosting a gathering, Nestea Iced Tea is the perfect beverage choice. Its crisp, clean taste and soothing tea flavor make it a delightful companion on warm days. Embrace the pure refreshment of Nestea Iced Tea and let its natural flavors transport you to a serene oasis of coolness and satisfaction.",
+        "rating": 4.5,
+        "productId": 4
+    },
+    {
+        "name": "Frosted Flakes",
+        "image": "https://i.ibb.co/qM2RVJJ/frosted-Flags.webp",
+        "brandName": "Kellogg's",
+        "type": "Cereal",
+        "price": 3.49,
+        "description": "Frosted Flakes, the breakfast cereal that starts your day with a smile. Crispy corn flakes, coated in a layer of sweet frosting, create a harmonious blend of crunch and sweetness. Every spoonful is a delightful journey of textures, from the initial crunch to the satisfying melt-in-your-mouth experience. Whether enjoyed with cold milk, yogurt, or straight from the box, Frosted Flakes add a touch of sweetness to your mornings. Embrace the joy of a wholesome breakfast and let the playful tiger mascot accompany you on your morning adventures.",
+        "rating": 4.5,
+        "productId": 1
+    },
+    {
+        "name": "Rice Krispies",
+        "image": "https://i.ibb.co/9Wk4M3N/ricekrispies.jpg",
+        "brandName": "Kellogg's",
+        "type": "Cereal",
+        "price": 2.99,
+        "description": "Rice Krispies, the classic cereal that snaps, crackles, and pops its way into your heart. Made from crisped rice, Rice Krispies deliver a symphony of sounds and flavors in every bowl. The gentle snap, the playful crackle, and the satisfying pop create a delightful sensory experience. Whether enjoyed with cold milk, transformed into marshmallow treats, or used to add crunch to desserts, Rice Krispies add a touch of magic to your culinary creations. Embrace the nostalgic charm and playful spirit of Rice Krispies – a cereal that brings joy to breakfast tables and beyond.",
+        "rating": 4.4,
+        "productId": 2
+    },
+    {
+        "name": "Pop-Tarts",
+        "image": "https://i.ibb.co/rysRQ5p/popTarts.jpg",
+        "brandName": "Kellogg's",
+        "type": "Pastry",
+        "price": 2.79,
+        "description": "Pop-Tarts, the toaster pastry that sparks joy with every bite. Encased in a flaky pastry crust and filled with luscious fruit jams, creamy chocolate, or cinnamon goodness, Pop-Tarts are a delightful indulgence for any time of the day. Whether toasted to golden perfection or enjoyed straight from the pack, Pop-Tarts are a convenient and tasty treat. The warm, gooey centers and crisp edges create a delectable contrast that tantalizes your taste buds. Embrace the variety of flavors and let the sweet aroma of Pop-Tarts fill your moments with happiness.",
+        "rating": 4.3,
+        "productId": 3
+    },
+    {
+        "name": "Special K",
+        "image": "https://i.ibb.co/M5T8X0M/Kelloggs-Special-K-Red-Berries-Cereal1.png",
+        "brandName": "Kellogg's",
+        "type": "Cereal",
+        "price": 3.19,
+        "description": "Special K, the high-protein cereal that fuels your day with nutrition and flavor. Made from crispy rice and wheat flakes, Special K is a wholesome breakfast choice that doesn't compromise on taste. Each spoonful is a delightful blend of crunch and lightness, offering a satisfying start to your morning. Packed with essential vitamins and minerals, Special K provides the nourishment you need to tackle your day with energy and vitality. Embrace the goodness of Special K and make every breakfast a nutritious and delicious affair.",
+        "rating": 4.2,
+        "productId": 4
+    }
+]
